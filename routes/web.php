@@ -18,3 +18,11 @@ Route::get('/farbarski-radovi', 'PageController@farbarskiRadovi');
 Route::get('/zimovnik', 'PageController@zimovnik');
 Route::get('/slepovanje', 'PageController@slepovanje');
 Route::get('/galerija', 'PageController@galerija');
+
+
+/*
+ * Admin
+ */
+
+Route::get('/admin/login', 'AdminController@loginPage');
+Route::post('/admin/login', 'AdminController@login');

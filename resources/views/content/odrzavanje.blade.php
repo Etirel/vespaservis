@@ -49,12 +49,7 @@
         <div class="content">
             <div class="page-content">
                 <div class="page-description">
-
-                    <div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://vespaservis011.rs/wp-content/uploads/2019/03/kais-rolnice.jpg" alt="rolnice" class="wp-image-338" width="279" height="246" srcset="https://vespaservis011.rs/wp-content/uploads/2019/03/kais-rolnice.jpg 500w, https://vespaservis011.rs/wp-content/uploads/2019/03/kais-rolnice-300x265.jpg 300w" sizes="(max-width: 279px) 100vw, 279px" /></figure></div>
-
-
-
-                    <blockquote class="wp-block-quote"><p>Redovno održavanje je najbolji način da vaš skuter bude ispravan i pouzdan u vožnji. Proizvođači skutera propisuju redovne servisne intervale, preventivne zamene pojedinih delova i tečnosti, najčešće prema predjenoj kilometraži.</p><p> Preventivno održavanje je najbolji način da sprečite nastajanja problema i da održite vaše skuter u optimalnom stanju, kako ne bi došlo do neprijatnih iznenađenja kada to najmanje očekujete.</p></blockquote>
+                    {!! $text !!}
                     <div class="multipage-links">
                     </div>
                 </div>

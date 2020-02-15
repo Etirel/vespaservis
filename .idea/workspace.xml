@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b49c86c-9002-4a53-8913-eab3e983e4f0" name="Default Changelist" comment="" />
+    <list default="true" id="3b49c86c-9002-4a53-8913-eab3e983e4f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Services/PageService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_02_04_163220_create_pages_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/content/odrzavanje.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/content/odrzavanje.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/content/uslugeServisaContent.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/content/uslugeServisaContent.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +26,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -105,13 +122,18 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1X7zd588FaKLb5oNDL0DQNDLbIc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -119,6 +141,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Models" />
       <recent name="$PROJECT_DIR$/resources/sass/~font-awesome/scss" />
     </key>
   </component>
@@ -144,41 +167,65 @@
       <workItem from="1580479867245" duration="9667000" />
       <workItem from="1580550648632" duration="387000" />
       <workItem from="1580551051748" duration="637000" />
+      <workItem from="1580816952517" duration="1627000" />
+      <workItem from="1580835065648" duration="2740000" />
+      <workItem from="1581015656996" duration="6209000" />
+      <workItem from="1581060893141" duration="643000" />
+      <workItem from="1581095382592" duration="4019000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="676" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581081092531">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="676" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581081092531" />
     <state x="554" y="53" width="860" height="999" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580417704722">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="554" y="53" width="860" height="999" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580417704722" />
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1580551035140">
+    <state x="726" y="310" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1581018639446">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1580551035140" />
-    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1580551035139">
+    <state x="726" y="310" width="524" height="484" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581018639446" />
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom" timestamp="1581081117955">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1580551035139" />
-    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1580551035139">
+    <state width="1807" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1581081117955" />
+    <state width="1807" height="278" key="GridCell.Tab.0.center" timestamp="1581081117954">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1580551035139" />
-    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1580551035139">
+    <state width="1807" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1581081117954" />
+    <state width="1807" height="278" key="GridCell.Tab.0.left" timestamp="1581081117954">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1580551035139" />
-    <state x="704" y="366" width="569" height="373" key="NewPhpClassDialog" timestamp="1580419475729">
+    <state width="1807" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1581081117954" />
+    <state width="1807" height="278" key="GridCell.Tab.0.right" timestamp="1581081117955">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="704" y="366" width="569" height="373" key="NewPhpClassDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580419475729" />
-    <state x="482" y="187" key="SettingsEditor" timestamp="1580480338136">
+    <state width="1807" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1581081117955" />
+    <state x="1017" y="483" width="569" height="373" key="NewPhpClassDialog" timestamp="1581018344169">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580480338136" />
+    <state x="1017" y="483" width="569" height="373" key="NewPhpClassDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581018344169" />
+    <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog" timestamp="1581098211173">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="789" y="478" width="399" height="149" key="NewPhpFileDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581098211173" />
+    <state x="805" y="265" width="366" height="574" key="RollbackChangesDialog" timestamp="1581019708309">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="805" y="265" width="366" height="574" key="RollbackChangesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581019708309" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1580835026364">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580835026364" />
     <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1580414939235">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

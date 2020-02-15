@@ -49,20 +49,9 @@
         <div class="content">
             <div class="page-content">
                 <div class="page-description">
-                    <h4></h4>
-                    <h4><a href="https://vespaservis011.rs/usluge-servisa/redovno-odrzavanje/">REDOVNO ODRŽAVANJE&nbsp; →</a></h4>
-                    <p class="usluge">Da bi vaša Vespa bila spremna za sezonu, trebalo bi uraditi proveru, testiranje stanja delova motora i servisiranje ili zamena pojedinih delova i tečnosti.</p>
-                    <hr class="hr-usluge">
-                    <h4><a href="https://vespaservis011.rs/usluge-servisa/servisiranje-agregata/">SERVISIRANJE AGREGATA →</a></h4>
-                    <p class="usluge">Rešavamo sve mehaničke kvarove!</p>
-                    <hr class="hr-usluge">
-                    <h4><a href="https://vespaservis011.rs/zimovnik/">ZIMOVNIK →</a></h4>
-                    <p class="usluge">Pružite Vašoj Vespi tretman koji zaslužuje, da zimu provede u odabranom društvu po veoma povoljnim uslovima !</p>
-                    <hr class="hr-usluge">
-                    <h4><a href="https://vespaservis011.rs/farbarski-radovi">V</a><a href="https://vespaservis011.rs/farbarski-radovi/">ARENJEPLASTIKA I FARBARSKI RADOVI →</a></h4>
-                    <p class="usluge">Vrsimo varenje i popravke plasticnih delova, farbanje i plastifikaciju (metalnih delova).</p>
-                    <div class="multipage-links">
-                    </div>
+
+                {!! $text ?? '' !!}
+
                 </div>
             </div>
         </div>

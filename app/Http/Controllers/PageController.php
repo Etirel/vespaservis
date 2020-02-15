@@ -1,25 +1,36 @@
 <?php
 
-
 namespace App\Http\Controllers;
 
-
-use Illuminate\View\View;
+use App\Services\PageService;
 
 class PageController extends Controller
 {
+    private $service;
+
+    public function __construct(PageService $service)
+    {
+        $this->service = $service;
+    }
+
     public function index(){
-        return view('template/main', ['content' => 'content/home']);
+        return view('template/main', [
+            'content' => 'content/home',
+            'text' => $this->service->getPageContent('home'),
+        ]);
     }
 
     public function usluge(){
-
-        return view('template/main', ['content' => 'content/uslugeServisaContent']);
+        return view('template/main', [
+            'content' => 'content/uslugeServisaContent',
+            'text' => $this->service->getPageContent('uslugeServisaContent')
+        ]);
     }
     public function  odrzavanje(){
-
-        return view('template/main', ['content' => 'content/odrzavanje']);
-
+        return view('template/main', [
+            'content' => 'content/odrzavanje',
+            'text' => $this->service->getPageContent('odrzavanje')
+        ]);
     }
     public function  farbarskiRadovi(){
 
