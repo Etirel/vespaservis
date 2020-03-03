@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b49c86c-9002-4a53-8913-eab3e983e4f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Page.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Services/PageService.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2020_02_04_163220_create_pages_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/symfony2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PageController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/content/odrzavanje.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/content/odrzavanje.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/content/uslugeServisaContent.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/content/uslugeServisaContent.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/content/zimovnik.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/content/zimovnik.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -137,7 +131,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -172,6 +166,11 @@
       <workItem from="1581015656996" duration="6209000" />
       <workItem from="1581060893141" duration="643000" />
       <workItem from="1581095382592" duration="4019000" />
+      <workItem from="1581800528055" duration="773000" />
+      <workItem from="1583251961275" duration="303000" />
+      <workItem from="1583252286822" duration="34000" />
+      <workItem from="1583252431157" duration="354000" />
+      <workItem from="1583253160723" duration="4302000" />
     </task>
     <servers />
   </component>
@@ -222,10 +221,14 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="805" y="265" width="366" height="574" key="RollbackChangesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1581019708309" />
-    <state x="482" y="187" key="SettingsEditor" timestamp="1580835026364">
+    <state x="482" y="187" key="SettingsEditor" timestamp="1583252736565">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580835026364" />
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583252736565" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583253161446">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1583253161446" />
     <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1580414939235">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>

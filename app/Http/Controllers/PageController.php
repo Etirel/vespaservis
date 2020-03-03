@@ -39,7 +39,10 @@ class PageController extends Controller
     }
     public function  zimovnik(){
 
-        return view('template/main', ['content' => 'content/zimovnik']);
+        return view('template/main', [
+            'content' => 'content/zimovnik',
+            'text' => $this->service->getPageContent('zimovnik')
+        ]);
 
     }
     public function  slepovanje(){

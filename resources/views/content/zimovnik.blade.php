@@ -50,12 +50,8 @@
             <div class="page-content">
                 <div class="page-description">
 
-                    <div class="wp-block-image"><figure class="aligncenter is-resized"><img src="https://vespaservis011.rs/wp-content/uploads/2019/03/parking.png" alt="parking" class="wp-image-297" width="195" height="195" srcset="https://vespaservis011.rs/wp-content/uploads/2019/03/parking.png 1024w, https://vespaservis011.rs/wp-content/uploads/2019/03/parking-150x150.png 150w, https://vespaservis011.rs/wp-content/uploads/2019/03/parking-300x300.png 300w, https://vespaservis011.rs/wp-content/uploads/2019/03/parking-768x768.png 768w, https://vespaservis011.rs/wp-content/uploads/2019/03/parking-90x90.png 90w" sizes="(max-width: 195px) 100vw, 195px" /></figure></div>
+                    {!! $text ?? '' !!}
 
-
-
-                    <blockquote class="wp-block-quote"><p>Ako u toku zimskih meseci nemate gde da sklonite vašu VESPU i zaštitite je od spoljnih uticaja , mi vam predlažemo da to učinite kod nas .</p><p>Obezbedjeno je punjenje akumulatora i  smestanje u adekvatan prostor zasticen od spoljnih uticaja. </p><p>Pregled ispravnosti i ako se pokaze potreba za nekom popravkom sve mozemo završiti u toku zimskog odmora .</p></blockquote>
-                    <div class="multipage-links">
                     </div>
                 </div>
             </div>
